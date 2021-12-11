@@ -41,7 +41,7 @@ global.author = 'RLP27'
 global.wait = '「 ⏱️ 」Harap tunggu...'
 global.eror = '「❗」Server ERROR!'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
-global.watermark = '© Laksmana27' //change the watermark (beberapa harus manual)
+global.watermark = '© dahlah' //change the watermark (beberapa harus manual)
 global.image = 'https://i.ibb.co/dDNpMkV/1566867082-How-to-know-if-my-Whats-App-is-HACKED-intervened-cloned-768x431.jpg' //change the image
 global.thumbfoto = 'https://i.ibb.co/Yt5TDyj/IMG-20211106-110117-148.jpg'
 global.sumberurl = 'https://youtu.be/0YF8vecQWYs'
